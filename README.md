@@ -1,0 +1,1 @@
+This repository contains a refactored and Python implementation of the HBV model and its Snow, Soil, Response and Routing routines. This repository also contains the componentized HBV and routines using the Basic Model Interface (BMI).
